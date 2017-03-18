@@ -27,5 +27,9 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/home/quentin/hadoop/flink-1.2.0/lib/flink-dist_2.11-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/quentin/hadoop/flink-1.2.0/lib/flink-python_2.11-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/home/quentin/hadoop/flink-1.2.0/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/quentin/hadoop/flink-1.2.0/lib/slf4j-log4j12-1.7.7.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
